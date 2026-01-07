@@ -1,6 +1,7 @@
 # github-open-source-dio
 Desafio prático de Git e GitHub para iniciantes (DIO)
 
+# Este projeto é mantido por mim, mas utilizo contas diferentes para simular contribuições open source reais.
 
 ## 📌 Sobre o desafio
 Projeto criado para um desafio da **DIO (Digital Innovation One)** com foco na prática de **Git, GitHub e Pull Requests**.
